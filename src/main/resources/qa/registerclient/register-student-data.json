@@ -1,0 +1,17 @@
+{
+  "registerStudent": [
+    {
+      "key": "register-student-data-complete",
+      "firstName": "pepito",
+      "lastName": "perez",
+      "email": "correo345@correo.com",
+      "gender": "Male",
+      "mobile": "123456789",
+      "mouth": "December",
+      "years": "1989",
+      "subject": "English",
+      "hobbies": "Sport",
+      "currentAddress": "calle 123"
+    }
+  ]
+}

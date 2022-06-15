@@ -1,0 +1,59 @@
+{
+  "actors": [
+    {
+      "id": 1,
+      "name": "Juan",
+      "lastName": "Pablo",
+      "credentials": {
+        "username": "admin@testcompany.com",
+        "password": "1111"
+      },
+      "type": "multiple company",
+      "description": "User with configuration",
+      "companies": [
+        {
+          "key": "jamesmultiQA",
+          "name": "James",
+          "lastName": "TestCompany"
+        },
+        {
+          "key": "Test Company",
+          "name": "Juan",
+          "lastName": "Pablo"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "admin",
+      "lastName": ".",
+      "credentials": {
+        "username": "miguelcampo1206@hotmail.com",
+        "password": "Mayo2119*"
+      },
+      "type": "single company",
+      "description": "User with a lot companies",
+      "companies": [
+        {
+          "key": "Siigo Automation Dev"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Francy",
+      "lastName": "Muelas",
+      "credentials": {
+        "username": "francysiigosas@yopmail.com",
+        "password": "1111"
+      },
+      "type": "single company",
+      "description": "User with configuration",
+      "companies": [
+        {
+          "key": "CompaniaCalidad001"
+        }
+      ]
+    }
+  ]
+}
